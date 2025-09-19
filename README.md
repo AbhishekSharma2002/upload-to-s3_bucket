@@ -5,6 +5,6 @@
 
 ### There is data upload/update on multiple(three) S3 buckets 
 
-- s3://archbridge-capital-uat-beta/                          root
-- s3://archbridge-capital-uat-beta/arch-bridge-uat/           /arch-bridge-uat
-- s3://archbridge-capital-uat-beta/uc/                        /uc
+- s3://archbridge-capital-uat-beta/                          #root
+- s3://archbridge-capital-uat-beta/arch-bridge-uat/          #arch-bridge-uat
+- s3://archbridge-capital-uat-beta/uc/                       #uc
